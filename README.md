@@ -1,5 +1,8 @@
 # Logistic_Regression_From_Scratch
 Determining sex of penguin with Logistic Regression
+Code at Master Branch!
+
+
 
 This repository contains a Jupyter Notebook implementation of logistic regression from scratch for determining the sex of penguins. Logistic regression is a fundamental machine learning algorithm used for binary classification tasks, and in this project, we'll be applying it to predict the sex of penguins based on certain features.
 
